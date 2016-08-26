@@ -26,13 +26,6 @@ import org.mybatis.generator.api.dom.java.Method;
 import org.mybatis.generator.api.dom.java.TopLevelClass;
 import org.mybatis.generator.config.Context;
 
-/**
- * This class is the default formatter for generated Java.  This class will use the
- * built in formatting of the DOM classes directly.
- * 
- * @author Jeff Butler
- *
- */
 public class MyJavaFormatter implements JavaFormatter {
     protected Context context;
     
