@@ -1,0 +1,1 @@
+# java-mybatis-generator-sample
